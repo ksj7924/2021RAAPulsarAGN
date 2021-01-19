@@ -1,8 +1,12 @@
 # 2021RAAPulsarAGN
 Searching for AGN and Pulsar Candidates in 4FGL Unassociated Sources Using Machine Learning
-https://ui.adsabs.harvard.edu/abs/2020arXiv200106010Z
+https://ui.adsabs.harvard.edu/abs/2020arXiv200106010Z 
 
-https://arxiv.org/abs/2001.06010 
+https://arxiv.org/abs/2001.06010  
+
+http://www.raa-journal.org/raa/index.php/raa/article/view/4660 
+
+https://doi.org/10.1088/1674-4527/21/1/15 
 
 Repository Citations 
 
